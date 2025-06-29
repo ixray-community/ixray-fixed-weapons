@@ -1,10 +1,16 @@
-# Fixed Weapons for IX-Ray Platform
+# Fixed Weapons (ver 2.0) for IX-Ray Platform
 
 Addon with fixes for original weapons content
 
 ## Overview
 
 This addon fixes the front sight position when aiming and corrects animations for certain weapons that caused issues in original Stalker Call of Pripyat and when playing with the __IX-Ray Engine__. It's designed to fix original weapon bugs
+
+## Remarks
+
+> [!WARNING]
+>
+> Supported only on __IX-Ray Platform__!
 
 ## Requirements
 
@@ -29,6 +35,7 @@ Link to the current __IX-Ray__ [release](https://github.com/ixray-team/ixray-1.6
   - `Stalker Community`
   - `Alex Ros`
   - `Jurok`
+  - `MSR`
 
 ## License
 
@@ -36,20 +43,26 @@ Contents of this repository are licensed under terms of the __CC BY-NC-SA 4.0__ 
 
 ## Обзор
 
-Это дополнение исправляет положение мушки при прицеливании и корректирует анимацию для определенных видов оружия, которые вызывали проблемы в оригинальной игре Stalker Call of Pripyat и при игре с __IX-Ray Engine__. Оно предназначено для исправления ошибок оригинального оружия
+Это дополнение исправляет положение мушки при прицеливании и корректирует анимации для определенных видов оружия, которые вызывали проблемы в оригинальной игре Stalker Call of Pripyat и при игре с __IX-Ray Engine__. Оно предназначено для исправления ошибок оригинального оружия
+
+## Примечаниe
+
+> [!WARNING]
+>
+> Поддерживается только на __IX-Ray Platform__!
 
 ## Требования
 
 Установка:
 
-1. Установите оригинальную игру Stalker Call of Pripyat 1.6.02
-2. Установите текущую версию IX-Ray (минимум 1.0)
-3. Распакуйте архив аддона в папку игры
+1. Установить оригинальный Stalker Call of Pripyat 1.6.02
+2. Установить актуальную версию IX-Ray (минимальная 1.0)
+3. Распакуйте архив аддона в папку с игрой
 4. Запустите игру и играйте
 
 Ссылка на текущую версию __IX-Ray__ [релиз](https://github.com/ixray-team/ixray-1.6-stcop/releases/latest)
 
-## Авторы
+## Контрибьюторы
 
 - Команда IX-Ray
   - `Drombeys`
@@ -61,6 +74,7 @@ Contents of this repository are licensed under terms of the __CC BY-NC-SA 4.0__ 
   - `Сообщество Stalker`
   - `Alex Ros`
   - `Jurok`
+  - `MSR`
 
 ## Лицензия
 
