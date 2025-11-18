@@ -2,6 +2,11 @@
 
 Full changelog
 
+## Release 2.1 (November 2025)
+
+- Added missing weapon HUD section inheritance from `hud_base` (@Drombeys)
+- Added support for Clear Sky (@St4lker0k765)
+
 ## Release 2.0 (June 2025)
 
 - Fixed **PM** and **PB** pistols texture overlighting when used with flashlight (@MSR)
@@ -30,6 +35,11 @@ Full changelog
 ---
 
 Полный список изменений
+
+## Релиз 2.1 (Ноябрь 2025)
+
+- Добавлено отсутствующее наследование секции HUD оружия от `hud_base` (@Drombeys)
+- Добавлена поддержка Чистого Неба (@St4lker0k765)
 
 ## Релиз 2.0 (Июнь 2025)
 

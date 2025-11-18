@@ -1,4 +1,4 @@
-# Fixed Weapons (ver 2.0) for IX-Ray Platform
+# Fixed Weapons (ver 2.1) for IX-Ray Platform
 
 Addon with fixes for original weapons content
 
